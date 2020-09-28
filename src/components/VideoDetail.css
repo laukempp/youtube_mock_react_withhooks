@@ -1,0 +1,4 @@
+.player-container {
+  flex: 3 1 0 !important;
+  padding: 10px;
+}
